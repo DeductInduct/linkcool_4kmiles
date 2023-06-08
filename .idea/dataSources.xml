@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="linkcool_4kmiles_indicator_test@indicator.cigtkysbsylo.rds.cn-northwest-1.amazonaws.com.cn" uuid="bedb709c-949d-4445-8bab-9e4ce80f6d6d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://indicator.cigtkysbsylo.rds.cn-northwest-1.amazonaws.com.cn:3306/linkcool_4kmiles_indicator_test?useUnicode=true&amp;characterEncoding=UTF-8&amp;zeroDateTimeBehavior=round&amp;allowMultiQueries=true&amp;serverTimezone=GMT%2B8</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="linkcool_4kmiles_indicator@indicator.cigtkysbsylo.rds.cn-northwest-1.amazonaws.com.cn" uuid="fa2b06a2-19a4-403d-be1d-6759d905e7e9">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://indicator.cigtkysbsylo.rds.cn-northwest-1.amazonaws.com.cn:3306/linkcool_4kmiles_indicator?useUnicode=true&amp;characterEncoding=UTF-8&amp;zeroDateTimeBehavior=round&amp;allowMultiQueries=true&amp;serverTimezone=GMT%2B8</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
