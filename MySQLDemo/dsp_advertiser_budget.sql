@@ -8,8 +8,8 @@ SELECT
           WHEN 3 THEN "paused"
           WHEN 4 THEN "cancelled"
           ELSE "-" END AS  AdvertiserStatus
-     ,T_DE.EntityId EntityId
-     ,T_DE.EntityName EntityName
+     ,T_DE.EntityId AS EntityId
+     ,T_DE.EntityName AS EntityName
      ,T_3.Id User_Id
      ,T_3.ClientId AS ClientId
      ,T_3.Name AS UserName
